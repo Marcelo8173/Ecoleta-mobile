@@ -14,7 +14,17 @@ App de coleta de resíduos (mobile)
 - Passo a passo
         1. Use o `yarn` ou `npm` para instalar as dependências do projeto
         2. Use o comando - `expo start` e use o aplicativo do expo para rodar no emulador ou celular físico.
+ 
+#### API
+
+- API `https://github.com/Marcelo8173/Ecoleta-apiRest`.
+
         
+#### Versão web
+
+- versão web `https://github.com/Marcelo8173/Ecoleta-Front-end`.
+
+
  ![Ecoleta](https://github.com/Marcelo8173/Ecoleta-mobile/blob/master/src/assets/home-background.svg)
 #### Notas
 
